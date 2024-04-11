@@ -1,0 +1,20 @@
+h1 {
+  font-family: "Merriweather", serif;
+  font-weight: 1500;
+  font-style: normal;
+  text-shadow: 5px 5px 5px #26120B;
+}
+p {
+  font-family: "Workbench", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  text-align: justify;
+  line-height: 200%;
+}
+body {
+  background-color: bisque;
+}
+span {
+  color: blueviolet;
+  text-align: justify;
+}

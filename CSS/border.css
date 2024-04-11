@@ -1,0 +1,10 @@
+h1 {
+    border-top:5px dashed lawngreen ;
+    border-right:10px dotted brown ;
+    border-bottom: 5px inset silver;
+    border-left: 10px groove darkblue;
+}
+h2 {
+    border: 8px dotted rebeccapurple;
+    border-radius: 30%;
+}

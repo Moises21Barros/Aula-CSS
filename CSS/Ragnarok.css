@@ -1,0 +1,40 @@
+.container{
+    border: 2px dotted rebeccapurple;
+    padding: 15px;
+    overflow: auto;
+}
+.container img{
+    float:left;
+}
+.div2{
+    border: 2px solid darkblue;
+    padding: 10px;
+    margin: 15px;
+}
+.p1{
+    padding: 5px;
+    color: green;
+    background-color: tomato;
+}
+.p2{
+    padding: 5px;
+    color: tomato;
+    background-color: green;
+    float: left;
+}
+.div3{
+    border: 2px solid darkblue;
+    padding: 10px;
+    margin: 15px;
+}
+.p3{
+    padding: 5px;
+    color: green;
+    background-color: tomato;
+}
+.p4{
+    padding: 5px;
+    color: tomato;
+    background-color: green;
+    clear: left;
+}

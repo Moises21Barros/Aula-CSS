@@ -1,0 +1,21 @@
+h1 {
+    text-shadow: 5px 5px 5px #0B0C0D;
+}
+h2 {
+    text-shadow: -5px 5px 5px #888C8C;
+}
+h3 {
+    text-shadow:  -5px -5px 5px #40403E;
+}
+.texto {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: cadetblue;
+    text-align: right;
+}
+.texto2 {
+    font-size: 30px;
+}
+.texto3 {
+    font-size: 45px;
+}

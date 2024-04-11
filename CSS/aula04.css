@@ -1,0 +1,16 @@
+#nomeClass{
+    color: yellow;
+    background-color: cadetblue;
+}
+#nomeClass2{
+    color: khaki;
+    background-color: tomato;
+}
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: silver;
+}
